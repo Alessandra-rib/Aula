@@ -21,7 +21,7 @@ public class Cliente {
 		}
 	}
 	
-	public void double calculaCompra () {
+	public void calculaCompra () {
 		System.out.println("Total da Compra: " + cliente.calculaCompra());
 		
 	}	
