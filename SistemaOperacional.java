@@ -12,5 +12,4 @@ public class SistemaOperacional {
 	public String getNome() {
 		return nome;
 	}
-	
 }
